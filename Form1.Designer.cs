@@ -31,6 +31,10 @@
             components = new System.ComponentModel.Container();
             Label label1;
             listBox1 = new ListBox();
+<<<<<<<<< Temporary merge branch 1
+          
+=========
+>>>>>>>>> Temporary merge branch 2
             panel1 = new Panel();
             btnCancel = new Button();
             rbStatus2 = new RadioButton();
