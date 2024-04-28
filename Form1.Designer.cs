@@ -48,7 +48,7 @@
             label2 = new Label();
             tbDesc = new TextBox();
             tbTitle = new TextBox();
-            label1 = new Label();
+            label1 = new Label();        
             panel1.SuspendLayout();
             SuspendLayout();
             // 
