@@ -31,6 +31,7 @@
             components = new System.ComponentModel.Container();
             Label label1;
             listBox1 = new ListBox();
+            todoItemBindingSource = new BindingSource(components);
             panel1 = new Panel();
             btnCancel = new Button();
             rbStatus2 = new RadioButton();
@@ -48,7 +49,7 @@
             label2 = new Label();
             tbDesc = new TextBox();
             tbTitle = new TextBox();
-            label1 = new Label();
+            label1 = new Label();        
             panel1.SuspendLayout();
             SuspendLayout();
             // 
